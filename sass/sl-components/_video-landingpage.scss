@@ -1,0 +1,17 @@
+.view-videos-landing-page {
+
+  .isotope-container {
+    padding-left: 0;
+  }
+
+  .isotope-element {
+    width: 100%;
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 32px;
+    @include clearfix();
+    img, iframe {
+      max-width: 560px;
+    }
+  }
+}

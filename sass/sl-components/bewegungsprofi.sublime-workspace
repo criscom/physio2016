@@ -1,0 +1,950 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mat",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bcol",
+				"background-color"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"a",
+				"default"
+			],
+			[
+				"n",
+				"inherit"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"co",
+				"color1"
+			],
+			[
+				"back-c",
+				"background-color"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"o",
+				"outline"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"zen-g",
+				"zen-grid-width"
+			],
+			[
+				"c",
+				"clear"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"tra",
+				"transitionSpeed"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"ro",
+				"royalSlider"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"dat",
+				"database"
+			],
+			[
+				"last",
+				"last-child"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"mx",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"mato",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"f",
+				"first-child"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"75",
+				"75rem"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"gray",
+				"grayborder"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"tex-",
+				"text-indent"
+			],
+			[
+				"bg",
+				"background"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"pre",
+				"pre-wrap"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"color",
+				"color1"
+			],
+			[
+				"re",
+				"repeat-x"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"slid",
+				"slider-icons"
+			],
+			[
+				"borderr",
+				"border-radius"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"the",
+				"thead	Tag"
+			],
+			[
+				"colo",
+				"color2"
+			],
+			[
+				"col",
+				"color2"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_breadcrumb.scss",
+			"settings":
+			{
+				"buffer_size": 446,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packcontrolin",
+				"Package Control: Install Package"
+			],
+			[
+				"packconinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 547.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/drupalmaster2014-bewegungsprofi.at",
+		"/Applications/MAMP/htdocs/drupalmaster2014-bewegungsprofi.at/sass",
+		"/Applications/MAMP/htdocs/drupalmaster2014-bewegungsprofi.at/sass/sl-components"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/master2015.info",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/sl-components/_header.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/gulpfile.js",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/sl-components/_main-menu-desktop.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/sl-components/_language-switcher.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/layouts/panel_one_two/panel_one_two.inc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/sl-components/_main-menu-mobile.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/.sass-cache/5fb9225fa2592e8e67ac2908b81ee7d70ca684c3/_variables.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/.sass-cache/7a33cda3fff494ec4851c7dc61911083f5e20b4e/_breadcrumb.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/.sass-cache/7a33cda3fff494ec4851c7dc61911083f5e20b4e/_header-text.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/.sass-cache/7a33cda3fff494ec4851c7dc61911083f5e20b4e/_language-switcher.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/.sass-cache/7a33cda3fff494ec4851c7dc61911083f5e20b4e/_main-menu-mobile.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/sass/_variables.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/sass/sl-components/_header-text.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/sass/sl-components/_breadcrumb.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/sass/sl-components/_main-menu-mobile.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/.sass-cache/5fb9225fa2592e8e67ac2908b81ee7d70ca684c3/_variables.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/.sass-cache/7a33cda3fff494ec4851c7dc61911083f5e20b4e/_breadcrumb.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/.sass-cache/7a33cda3fff494ec4851c7dc61911083f5e20b4e/_header-text.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/.sass-cache/7a33cda3fff494ec4851c7dc61911083f5e20b4e/_language-switcher.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/.sass-cache/7a33cda3fff494ec4851c7dc61911083f5e20b4e/_main-menu-mobile.scssc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/sl-components/_breadcrumb.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015bak/sass/sl-components/_language-switcher.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/css/styles.css.bak",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/css/styles.css.map",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/zen/template.php",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/csstest/fonts.css",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/scsstest/fonts.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/css/styles.css",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/dist/styles.css",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/dist/fonts.css",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/scsstest/_fonts.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/js/css_browser_selector.js",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/layouts/panel_one_two/panel_one_two.tpl.php",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/layouts/panel_two_two/panel_two_two.inc",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/layouts/panel_two_two/panel-two-two.tpl.php",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/layouts/panel_two_two/panel_two_two.tpl.php",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/sl-components/_footer.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/sl-components/_frontpage.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/js/script.js",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/sl-components/_fonts.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/components/_onlinebestellung.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/styles.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/_init.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/template.php",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/.scss-lint.yml",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/template-smart-menus.php.bak",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/Gemfile",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/library/_placeholders.scss",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master/template.php",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master/master.info",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/drupalmaster2014/sites/all/themes/master2015/sass/_print.scss",
+		"/Applications/MAMP/htdocs/salinger-dorfer/sass/components/_lists.scss",
+		"/Applications/MAMP/htdocs/salinger-dorfer/sass/components/_hide_text.scss",
+		"/Applications/MAMP/htdocs/salinger-dorfer/sass/components/_color.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/sass/components/_navbar.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/js/flexslider.js",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/default/settings.php",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/es_base.info",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/modules/views_isotope/views_isotope.js",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/js/script.js",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/templates/page.tpl.php",
+		"/Users/cpotzinger/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/template.php",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/sass/library/_hide_text.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/sass/_placeholders.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/sass/components/_isotope.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/libraries/flexslider/FlexSlider/demo/js/shCore.js",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/includes/session.inc",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/sass/components/_block.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/profiles/spark/modules/contrib/views/help/style-comment-rss.html",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/sass/components/_product-overview.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/sass/layouts/_responsive.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/sass/base/_fonts.scss",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/profiles/spark/modules/contrib/breakpoints/breakpoints.info",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/modules/book/book-rtl.css",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/includes/batch.inc",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/.sass-cache/8be66af791ef0ffc0634624c7a3539a487b8fd1e/_responsive.scssc",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/css/layouts/responsive.css",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/profiles/spark/modules/contrib/responsive_preview/responsive_preview.info",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/.sass-cache/917854eb95c7e5af5fbba7531c00e494e19de2d8/_responsive-visibility.scssc",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/zen/js/respond.js",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/themes/seven/reset.css",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/README.txt",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/CHANGELOG.txt",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/profiles/spark/libraries/modernizr/feature-detects/css-objectfit.js",
+		"/Users/cpotzinger/Documents/Einstern/PROJEKTE/Aktive Projekte/Sublime and Espresso/potzinger2014.sublime-project",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/zen/template.php",
+		"/Applications/MAMP/htdocs/spark-7.x-1.0-beta1/sites/all/themes/es_base/css/components/flexslider.css",
+		"/Users/cpotzinger/Library/Caches/Cleanup At Startup/Transmit/AEF2AE54-9A14-4498-A8F8-E88966BC2C26/ifz.css",
+		"/Users/cpotzinger/Documents/Einstern/PROJEKTE/Aktive Projekte/paperwhite-studios pilcrow-studios.com/2014-04-29-antonzimmermann/neue-bestellung-gast.html",
+		"/Users/cpotzinger/Documents/Einstern/PROJEKTE/Aktive Projekte/paperwhite-studios pilcrow-studios.com/2014-04-29-antonzimmermann/neue-bestellung.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_header.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_icons.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/date/date_elements.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/includes/date.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/navicon-leiste.html",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/libraries/ckeditor/styles.js",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/modules/simpletest/tests/session_test.info",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/includes/session.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/views-view--news--block-2.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_newsletter-block.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_rsnews.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_menus.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/default.settings copy.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/ds/modules/ds_extras/ds_extras.ds_fields_info.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/includes/entity.inc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/modules/entity/tests/entity_feature.info",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/default/files/Beschreibung TCO-Tool fÃ¼r PCs.doc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/html.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_placeholders.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_menus.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_default.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_default.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/.sass-cache/843b26b936013727fbab7f4b568295ff0079a4d3/_init.scssc",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/views-view-unformatted--news--block-2.tpl.php",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/nabe_zen_2014.info",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_init.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/bootstrap/_buttons.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/mixins/_buttons.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_fonts.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_accordion-tools.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/components/_misc.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/_node.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/styles.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/sass/bootstrap/_mixins.scss",
+		"/Applications/MAMP/htdocs/nachhaltigebeschaffung_20140901/sites/all/themes/nabe_zen_2014/templates/!!!views-view-field--field-slideshow-home-image.tpl.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			"ul.nice-menu",
+			"unordered",
+			"clear:both",
+			"color",
+			":nth-child",
+			"$mobilescreens",
+			"mobilescreens",
+			"smallscreens",
+			"smalldesk",
+			"$mediumdesk",
+			"white",
+			"aaa",
+			"textarea",
+			"box-shadow",
+			"danger",
+			"#f5f5",
+			".breadcrumb",
+			"top",
+			"-bottom",
+			"$btn-danger-color",
+			"button-variant",
+			"brand-success",
+			".btn-success",
+			"weight",
+			"t {",
+			"%base-font",
+			"'];",
+			"<div class=\"inside\">",
+			"twocol",
+			"<div class=\"inside\">",
+			"twocol",
+			"<div class=\"inside\">",
+			"twocol_stacked",
+			"custom",
+			"custom.user",
+			"custom",
+			"ul.nice-menu li a",
+			"$caret-width-large",
+			"+",
+			"    ",
+			"padding",
+			"margin",
+			"view-unsere-weine",
+			"row",
+			"padding",
+			"margin",
+			"jquery",
+			"FlexSlider",
+			"+",
+			"flexslider",
+			"flexSlider",
+			"js/",
+			"es_base",
+			"0",
+			"20px",
+			"section>",
+			"footer",
+			"2",
+			"$container.isotope('option',",
+			"var $container = $('#isotope-container');",
+			"getSortData:",
+			"isotope-button",
+			"$depth",
+			".button",
+			"porto",
+			"porto_block_view_alter",
+			"header_menu",
+			"255",
+			"Serives",
+			"transition",
+			"/fonts",
+			"+",
+			"fonts",
+			"Reinigung",
+			"glyphicons",
+			"Roboto-Black-webfont",
+			"#mc_embed_signup .button",
+			"@include no-bullets;",
+			"<a href=\"",
+			"& {",
+			"Gartenbau",
+			"#navigation",
+			"@extend .navicons-",
+			"navicons-",
+			".icons",
+			"icons",
+			"beschaffungsgruppen",
+			"1px dotted $bordercolor",
+			": $default-border",
+			"false",
+			"border-",
+			"false",
+			"btn-warning-border",
+			"$border",
+			"hover",
+			"button",
+			"brand-warning",
+			"page-node-221",
+			"header",
+			"top",
+			"margin",
+			"solid",
+			"#ccc",
+			"icon",
+			"body-page-node-1",
+			"span",
+			"icon",
+			".png\"",
+			"><img",
+			"Fahrzeuge",
+			"Tiefbau",
+			"inline",
+			"inline-none",
+			"</a><a",
+			"</a></span>",
+			"none\"><a",
+			"</span><span",
+			"http://www.nachhaltigebeschaffung.at",
+			"news",
+			".field-name-body",
+			".block-pedersenandpartners-mobile-navigation",
+			"practice group",
+			"footer",
+			"iframe",
+			"services",
+			"newsletter",
+			"news"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$max768",
+			"$border",
+			"</td><td>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_breadcrumb.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "scss",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Light).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "bewegungsprofi.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"_second",
+				"sites/all/themes/master2015/sass/sl-components/_secondary-menu.scss"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"",
+				"sass/custom.scss"
+			],
+			[
+				"script",
+				"sites/all/themes/es_base/js/script.js"
+			],
+			[
+				"scripts",
+				"sites/all/themes/es_base/js/script.js"
+			],
+			[
+				"responsvie.scss",
+				"sites/all/themes/es_base/sass/layouts/_responsive.scss"
+			],
+			[
+				"default",
+				"sites/all/themes/nabe_zen_2014/sass/_default.scss"
+			],
+			[
+				"styles.css",
+				"sites/all/themes/nabe_zen_2014/css/styles.css"
+			],
+			[
+				"default.css",
+				"sites/all/themes/nabe_zen_2014/sass/_default.scss"
+			],
+			[
+				"_icon.scss",
+				"sites/all/libraries/ckeditor/_source/skins/kama/icons.css"
+			],
+			[
+				"_respo",
+				"sites/all/themes/nabe_zen_2014/sass/layouts/_responsive.scss"
+			],
+			[
+				"_fon",
+				"sites/all/themes/nabe_zen_2014/sass/_fonts.scss"
+			],
+			[
+				"nabe_zen",
+				"sites/all/themes/nabe_zen_2014/nabe_zen_2014.info"
+			],
+			[
+				"styles",
+				"sites/all/themes/nabe_zen_2014/sass/styles.scss"
+			],
+			[
+				"_res",
+				"sites/all/themes/nabe_zen_2014/sass/layouts/_responsive.scss"
+			],
+			[
+				"def",
+				"sass/_default.scss"
+			],
+			[
+				"1200",
+				"sass/_minwidth1200.scss"
+			],
+			[
+				"ini",
+				"sass/_init.scss"
+			],
+			[
+				"de",
+				"sass/_default.scss"
+			],
+			[
+				"cus",
+				"sass/_custom.scss"
+			],
+			[
+				"html",
+				"index.html"
+			],
+			[
+				"cu",
+				"sass/_custom.scss"
+			],
+			[
+				"in",
+				"sass/_init.scss"
+			],
+			[
+				"s",
+				"private/templates/css/styles.css"
+			],
+			[
+				"styl",
+				"private/templates/sass/styles.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 746.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 332.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,104 @@
+/* CSS code for Einfache Seite 1 (1 spaltig, Title, Text, Bild, Upload)
+** PANEL page
+** added by criscom
+** ds-2-col-stacked
+** 
+*/
+
+// float images on bewegungsentwicklung page
+
+
+@include breakpoint($tablet){
+    img.float {
+        float: left;
+        margin-right: 5%;
+    }
+    img.float.picture-two {
+        // vertical-align: bottom;
+    }
+    p.clearfix {
+        clear: both;
+    }
+}
+// PAGE LAYOUT
+.node-page
+{
+    &.view-mode-full
+    {
+        .group-left
+        {
+            width: 100%;
+
+            @include breakpoint($desktop)
+            {
+                width: 65%;
+            }
+            .field-name-body
+            {
+                border-bottom: 1px solid $main-nav;
+            }
+        }
+        .group-right
+        {
+            @include breakpoint($desktop)
+            {
+                width: 30%;
+                margin-left: 5%;
+            }
+        }
+    }
+    &.group-one-column
+    {
+        .group-left
+        {
+            width: 100%;
+        }
+    }
+}
+
+// GROUP LEFT
+
+.node-page .group-left
+{
+    // Slideshow
+    .bildergalerie-wrapper {
+        margin-bottom: 16px;
+        margin-bottom: 1rem;
+    }
+    .bildergalerie
+    {
+        @extend %medium-font-weight;
+    }
+    .bildergalerie-suffix {
+        margin-bottom: 16px;
+        font-size: 14px;
+        font-style: italic;
+    }
+    .field-name-field-slideshow
+    {
+        @include clearfix;
+        margin-bottom: 16px;
+        margin-bottom: 1rem;
+        .slideshow-image
+        {
+            float: left;
+
+            margin-right: 8px;
+            margin-right: .5rem;
+            margin-bottom: 8px;
+        }
+    }
+}
+
+
+
+// GROUP RIGHT
+
+.node-page .group-right,
+{
+    h2,
+    .field-name-field-image
+    {
+        text-align: center;
+    }
+}

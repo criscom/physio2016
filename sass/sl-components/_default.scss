@@ -1,0 +1,32 @@
+/* CSS code for default stylings
+** apply generally for all pages
+** added by criscom
+*/
+
+.page {
+    padding-top: 20px;
+    padding-top: 1.25rem;
+}
+
+.main h1{
+    // text-transform: uppercase;
+}
+
+.fa-angle-right {
+    margin-left: 8px;
+    margin-left: .5rem;
+}
+
+// Field Collection 
+.field-collection-container {
+    border-bottom: 0;
+}
+.field-collection-view {
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid $main-nav;
+}
+
+iframe {
+  max-width: 100%;
+}

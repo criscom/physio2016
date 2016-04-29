@@ -1,0 +1,15 @@
+.view-team
+{
+    .views-field-field-image
+    {
+        @include breakpoint($tablet)
+        {
+            float: left;
+
+            margin-right: 32px;
+            margin-right: 2rem;
+
+            @include clearfix;
+        }
+    }
+}

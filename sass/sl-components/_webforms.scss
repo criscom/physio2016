@@ -1,0 +1,23 @@
+/* CSS code for all webforms
+** sidebar
+** added by criscom
+** /panel-one-two
+**
+*/
+
+.webform-component {
+    label {
+        @extend %base-font-weight;
+    }
+}
+    .btn-primary {
+        color: white !important;
+        background-color: $brand-success;
+        border-color: darken($brand-success, 10%);
+    }
+
+    .btn-primary:hover,
+    .btn-primary:focus {
+      background-color: darken($brand-success, 15%);
+      border-color: darken($brand-success, 25%);
+    }
