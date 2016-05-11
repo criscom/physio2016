@@ -1,0 +1,77 @@
+diff --git a/sass/sl-components/_einfache-seite.scss b/sass/sl-components/_einfache-seite.scss
+index 3e78bba..3d788bc 100644
+--- a/sass/sl-components/_einfache-seite.scss
++++ b/sass/sl-components/_einfache-seite.scss
+@@ -23,6 +23,13 @@
+ // PAGE LAYOUT
+ .node-page
+ {
++    p, 
++    div, 
++    li {
++        a {
++            color: $brand-success;
++        }
++    }
+     &.view-mode-full
+     {
+         .group-left
+diff --git a/sass/sl-components/_uebungsbeschreibungen-ladning-page.scss b/sass/sl-components/_uebungsbeschreibungen-ladning-page.scss
+new file mode 100644
+index 0000000..a1bbeca
+--- /dev/null
++++ b/sass/sl-components/_uebungsbeschreibungen-ladning-page.scss
+@@ -0,0 +1,27 @@
++.view-transfer,
++.view-uebungen {
++  .views-row-1 {
++    margin-top: 32px;
++  }
++  .views-row {
++    @include clearfix();
++      margin-bottom: 32px;
++      padding-bottom: 24px;
++      border-bottom: 1px solid $main-nav;
++
++      img, iframe {
++        max-width: 560px;
++      }
++
++      .field-name-field-bild-links img {
++        margin-bottom: 32px;
++      }
++
++      .field-name-exercises-back-to-transfers,
++      .field-name-back-to-exercises {
++        a {
++        color: $brand-success;
++      }
++    }
++  }
++}
+\ No newline at end of file
+diff --git a/sass/sl-components/_video-landingpage.scss b/sass/sl-components/_video-landingpage.scss
+index 5656a81..5dbc0de 100644
+--- a/sass/sl-components/_video-landingpage.scss
++++ b/sass/sl-components/_video-landingpage.scss
+@@ -9,9 +9,18 @@
+     list-style: none;
+     padding-left: 0;
+     margin-bottom: 32px;
++    padding-bottom: 24px;
++    border-bottom: 1px solid $main-nav;
+     @include clearfix();
+     img, iframe {
+       max-width: 560px;
+     }
+   }
+-}
+\ No newline at end of file
++}
++
++.field-name-field-uebungen {
++  margin: 24px 0 0;
++  a {
++    color: $brand-success;
++  }
++}
