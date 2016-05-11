@@ -23,6 +23,13 @@
 // PAGE LAYOUT
 .node-page
 {
+    p, 
+    div, 
+    li {
+        a {
+            color: $brand-success;
+        }
+    }
     &.view-mode-full
     {
         .group-left

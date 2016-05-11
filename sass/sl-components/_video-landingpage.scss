@@ -9,9 +9,18 @@
     list-style: none;
     padding-left: 0;
     margin-bottom: 32px;
+    padding-bottom: 24px;
+    border-bottom: 1px solid $main-nav;
     @include clearfix();
     img, iframe {
       max-width: 560px;
     }
+  }
+}
+
+.field-name-field-uebungen {
+  margin: 24px 0 0;
+  a {
+    color: $brand-success;
   }
 }
